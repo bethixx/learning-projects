@@ -1,5 +1,5 @@
 ## Description
-Student projects written in C#.
+Student projects written in C#, C
 
 ## Technologies
 - C#
